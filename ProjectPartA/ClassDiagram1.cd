@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProjectPartA.View.ViewCreateEntities.ViewCreateAssignment" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAgAAAAgAAAAAABAAAQAAAAAAA=</HashCode>
+      <FileName>View\ViewCreateEntities\ViewCreateAssignment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectPartA.View.ViewCreateEntities.ViewCreateCourse" Collapsed="true">
+    <Position X="12" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAQAQAAAAIAAAABAAAAAAgAAAA=</HashCode>
+      <FileName>View\ViewCreateEntities\ViewCreateCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectPartA.View.ViewCreateEntities.ViewCreateStudent" Collapsed="true">
+    <Position X="12" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAQCAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>View\ViewCreateEntities\ViewCreateStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectPartA.View.ViewCreateEntities.ViewCreateTrainer" Collapsed="true">
+    <Position X="12" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAQAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>View\ViewCreateEntities\ViewCreateTrainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectPartA.View.ViewMenus.ViewCreateMenu" Collapsed="true">
+    <Position X="12" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>View\ViewMenus\ViewCreateMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectPartA.View.ViewMenus.ViewInsideMenu" Collapsed="true">
+    <Position X="13.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View\ViewMenus\ViewInsideMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectPartA.View.ViewMenus.ViewMainMenu" Collapsed="true">
+    <Position X="10.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View\ViewMenus\ViewMainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectPartA.View.ViewPairEntities.ViewPairCourseAssignments" Collapsed="true">
+    <Position X="12" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAIAA=</HashCode>
+      <FileName>View\ViewPairEntities\ViewPairCourseAssignments.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectPartA.View.ViewPairEntities.ViewPairCoursesStudents" Collapsed="true">
+    <Position X="12" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>View\ViewPairEntities\ViewPairCoursesStudents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectPartA.View.ViewPairEntities.ViewPairCoursesTrainers" Collapsed="true">
+    <Position X="12" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>View\ViewPairEntities\ViewPairCoursesTrainers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectPartA.View.ViewTablesOfData.ViewTables">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAABAAAAAABQEAAAAAFAAAAACKAAA=</HashCode>
+      <FileName>View\ViewTablesOfData\ViewTables.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectPartA.Validations.Validation" Collapsed="true">
+    <Position X="7" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAAACABAAAAAAEAAAAAAAAAACIQCBAAECgAAAAAAA=</HashCode>
+      <FileName>Validations\Validation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectPartA.Repositories.RepositoryInputEntities.RepositoryInputEntity" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAACAACAABEACQAAAAAABgAIAAAAAgAgA=</HashCode>
+      <FileName>Repositories\RepositoryInputEntities\RepositoryInputEntity.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="idb" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ProjectPartA.Repositories.RepositoryMyEntities.RepositoryMyEntity" Collapsed="true">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAQACAACAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\RepositoryMyEntities\RepositoryMyEntity.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="db" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ProjectPartA.HelperClasses.PairEntities.PairEntity">
+    <Position X="3" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAgAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HelperClasses\PairEntities\PairEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectPartA.HelperClasses.PairInputDates.PairInputDateHelperCls">
+    <Position X="4.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HelperClasses\PairInputDates\PairInputDateHelperCls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectPartA.Databases.SyntheticDatabase.MyDatabase" Collapsed="true">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Databases\SyntheticDatabase\MyDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectPartA.Databases.UserInputDatabase.InputDatabase" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Databases\UserInputDatabase\InputDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectPartA.Core.Entities.Assignment" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAIAAgAEAAQIIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Entities\Assignment.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Course" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ProjectPartA.Core.Entities.Course" Collapsed="true">
+    <Position X="1.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAAAAAAEAAAAAAEAAgAAAIAAAAAQAAAEAAAAA=</HashCode>
+      <FileName>Core\Entities\Course.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Assignments" />
+      <Property Name="Students" />
+      <Property Name="Trainers" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ProjectPartA.Core.Entities.Student" Collapsed="true">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAAAAQAAAAAAAAQAAAAAAAAABAAAAg=</HashCode>
+      <FileName>Core\Entities\Student.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Courses" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ProjectPartA.Core.Entities.Trainer" Collapsed="true">
+    <Position X="1.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAABAAAAg=</HashCode>
+      <FileName>Core\Entities\Trainer.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Courses" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ProjectPartA.Controllers.ControllerInputs.ControllerInput" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAogAAAAAEAAAAACAEAAAAICAAAAgAAQ=</HashCode>
+      <FileName>Controllers\ControllerInputs\ControllerInput.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="rie" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ProjectPartA.Controllers.ControllerSynthetics.ControllerSynthetic" Collapsed="true">
+    <Position X="8.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\ControllerSynthetics\ControllerSynthetic.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="rme" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ProjectPartA.Program">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectPartA.Application">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ProjectPartA.Core.Enums.CourseType">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Enums\CourseType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
